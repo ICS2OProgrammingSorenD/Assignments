@@ -3,7 +3,8 @@
 -- Name: Soren Drew
 -- Date: November 8th 2018
 -- Course: ICS2O
--- This program displays a company logo and 
+-- This program displays a company logo and a background with asteroids passing by with
+--sound effects.
 -----------------------------------------------------------------------------------------
 
 -- hide the status bar
